@@ -4,6 +4,7 @@
 UTF-8 Validation
 """
 
+
 def validUTF8(data):
     """
     Methods that determine if a given data set represents a valid
